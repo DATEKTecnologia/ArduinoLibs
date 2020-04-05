@@ -1,0 +1,4 @@
+CD4051_Expander	KEYWORD1
+selectInput	KEYWORD2
+enableINH	KEYWORD2
+disableINH	KEYWORD2

@@ -1,0 +1,12 @@
+{
+  "name": "CD4051 Expander",
+  "keywords": "",
+  "description": "",
+  "version": "1.0.0",
+  "frameworks": "arduino",
+  "platforms": "*",
+  "authors":
+  {
+    "name": "Fabio Perkowitsch Mulero"
+  }
+}
